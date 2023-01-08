@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+}
+
+button {
+    background-color: white;
+    margin: 10px;
+    color: black;
+    height: 50px;
+    width: 100px;
+}
+
+button:hover {
+    background-color: blue;
+    color: white;
+}
